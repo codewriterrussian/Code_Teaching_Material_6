@@ -24,7 +24,9 @@
 
 函式一開始看起來可能有一點抽象，但可以先把它想成一台小機器。
 
-![image.png](images/Lesson_08_Functions/Lesson_08_Functions_img1.png)
+<p align="center">
+  <img src="images/Lesson_08_Functions/Lesson_08_Functions_img1.png" alt="image.png" width="650">
+</p>
 
 一台機器通常會有：
 
@@ -108,7 +110,9 @@ Result:
 
 定義函式只是「建立工具」，還沒有真的使用它。
 
-![image.png](images/Lesson_08_Functions/Lesson_08_Functions_img2.png)
+<p align="center">
+  <img src="images/Lesson_08_Functions/Lesson_08_Functions_img2.png" alt="image.png" width="650">
+</p>
 
 ```python
 def say_hello():
@@ -173,7 +177,9 @@ Result:
 5
 ```
 
-![image.png](images/Lesson_08_Functions/Lesson_08_Functions_img3.png)
+<p align="center">
+  <img src="images/Lesson_08_Functions/Lesson_08_Functions_img3.png" alt="image.png" width="650">
+</p>
 
 在這個例子中：
 
@@ -592,7 +598,9 @@ change(x) 會把 5 傳進函式，函式內部回傳 15。
 
 ### 題目 3：`print()` 和 `return`
 
-![image.png](images/Lesson_08_Functions/Lesson_08_Functions_img4.png)
+<p align="center">
+  <img src="images/Lesson_08_Functions/Lesson_08_Functions_img4.png" alt="image.png" width="650">
+</p>
 
 ```python
 def f(x):

@@ -134,7 +134,9 @@ for i in range(5):
     print(1)
 ```
 
-![ChatGPT Image Jun 1 2026 from Material Maker.png](images/Lesson_07_Loops/Lesson_7_迴圈_Loop_367cdfbaad3a81cfa6d1f5d5593cb76e_img6.png)
+<p align="center">
+  <img src="images/Lesson_07_Loops/Lesson_07_Loops_img1.png" alt="ChatGPT Image Jun 1 2026 from Material Maker.png" width="650">
+</p>
 
 Result:
 
@@ -179,7 +181,9 @@ Result:
 
 `range()` 可以產生一段整數範圍。
 
-![ChatGPT Image Jun 1 2026.png](images/Lesson_07_Loops/Lesson_7_迴圈_Loop_367cdfbaad3a81cfa6d1f5d5593cb76e_img2.png)
+<p align="center">
+  <img src="images/Lesson_07_Loops/Lesson_07_Loops_img2.png" alt="ChatGPT Image Jun 1 2026.png" width="650">
+</p>
 
 常見格式：
 
@@ -280,7 +284,9 @@ Result:
 
 ### 6. 注意：直接改變 `i` 不會修改原本的串列
 
-![ChatGPT Image Jun 1 2026 (1).png](images/Lesson_07_Loops/Lesson_7_迴圈_Loop_367cdfbaad3a81cfa6d1f5d5593cb76e_img3.png)
+<p align="center">
+  <img src="images/Lesson_07_Loops/Lesson_07_Loops_img3.png" alt="ChatGPT Image Jun 1 2026 (1).png" width="650">
+</p>
 
 ```python
 list1 = [0, 1, 2, 3, 4]
@@ -317,6 +323,9 @@ for i in range(len(list1)):
 print(list1)
 ```
 
+<p align="center">
+  <img src="images/Lesson_07_Loops/Lesson_07_Loops_img4.png" alt="ChatGPT Image Jun 1 2026.png" width="650">
+</p>
 
 Result:
 
@@ -330,8 +339,11 @@ Result:
 
 ### 8. `while` 迴圈
 
-`while` 迴圈又稱為「條件迴圈」。只要條件是 `True`，就會一直重複執行。
+<p align="center">
+  <img src="images/Lesson_07_Loops/Lesson_07_Loops_img5.png" alt="image.png" width="650">
+</p>
 
+`while` 迴圈又稱為「條件迴圈」。只要條件是 `True`，就會一直重複執行。
 
 ```python
 i = 0
@@ -382,7 +394,9 @@ while not login:
 - `continue`：跳過這一次迴圈，直接進入下一次。
 - `break`：停止整個迴圈。
 
-![ChatGPT Image Jun 1 2026 Material Maker.png](images/Lesson_07_Loops/Lesson_7_迴圈_Loop_367cdfbaad3a81cfa6d1f5d5593cb76e_img4.png)
+<p align="center">
+  <img src="images/Lesson_07_Loops/Lesson_07_Loops_img6.png" alt="ChatGPT Image Jun 1 2026 Material Maker.png" width="650">
+</p>
 
 ```python
 for i in range(20):

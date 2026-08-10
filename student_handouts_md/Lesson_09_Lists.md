@@ -25,7 +25,9 @@
 
 每個車廂都可以放資料，而每個車廂都有自己的位置編號。
 
-![image.png](images/Lesson_09_Lists/Lesson_09_Lists_img1.png)
+<p align="center">
+  <img src="images/Lesson_09_Lists/Lesson_09_Lists_img1.png" alt="image.png" width="650">
+</p>
 
 ```
 位置 index： 0   1   2   3
@@ -62,7 +64,9 @@
 
 很多初學者會以為第一個資料的位置是 1，但 Python 串列的第一個位置是 0。
 
-![image.png](images/Lesson_09_Lists/Lesson_09_Lists_img2.png)
+<p align="center">
+  <img src="images/Lesson_09_Lists/Lesson_09_Lists_img2.png" alt="image.png" width="650">
+</p>
 
 ```python
 numbers = [10, 20, 30]
@@ -281,7 +285,9 @@ Result:
 
 使用 `len(list_name)` 可以取得串列長度。
 
-![image.png](images/Lesson_09_Lists/Lesson_09_Lists_img3.png)
+<p align="center">
+  <img src="images/Lesson_09_Lists/Lesson_09_Lists_img3.png" alt="image.png" width="650">
+</p>
 
 ```python
 list1 = [1, 2, 3, 4]
@@ -373,7 +379,9 @@ Result:
 
 串列方法是串列自己的功能，常常會改變原本的串列內容。
 
-![image.png](images/Lesson_09_Lists/Lesson_09_Lists_img4.png)
+<p align="center">
+  <img src="images/Lesson_09_Lists/Lesson_09_Lists_img4.png" alt="image.png" width="650">
+</p>
 
 | 方法 | 功能 |
 | --- | --- |
@@ -489,7 +497,9 @@ Result:
 
 ### 15. `sort()` 和 `sorted()`
 
-![image.png](images/Lesson_09_Lists/Lesson_09_Lists_img5.png)
+<p align="center">
+  <img src="images/Lesson_09_Lists/Lesson_09_Lists_img5.png" alt="image.png" width="650">
+</p>
 
 `sort()` 會改變原本的串列。
 
@@ -556,7 +566,9 @@ Result:
 
 ### 17. 多維串列
 
-![image.png](images/Lesson_09_Lists/Lesson_09_Lists_img6.png)
+<p align="center">
+  <img src="images/Lesson_09_Lists/Lesson_09_Lists_img6.png" alt="image.png" width="650">
+</p>
 
 多維串列就是串列裡面還有串列。
 

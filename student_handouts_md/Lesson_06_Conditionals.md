@@ -301,7 +301,9 @@ if + if：多選題，每題都看。
 if + elif：單選題，中了就停。
 ```
 
-![if + elif 單選題示意圖](images/Lesson_06_Conditionals/Lesson_6_Conditional_Expressions_條件判斷_36ccdfbaad3a80b5866cd64cf263cb94_img1.png)
+<p align="center">
+  <img src="images/Lesson_06_Conditionals/Lesson_06_Conditionals_img1.png" alt="if + elif 單選題示意圖" width="650">
+</p>
 
 if + elif 單選題示意圖
 
@@ -351,7 +353,9 @@ A
 if + if：多選題，每題都看。
 ```
 
-![if + if 多選題示意圖](images/Lesson_06_Conditionals/Lesson_6_Conditional_Expressions_條件判斷_36ccdfbaad3a80b5866cd64cf263cb94_img2.png)
+<p align="center">
+  <img src="images/Lesson_06_Conditionals/Lesson_06_Conditionals_img2.png" alt="if + if 多選題示意圖" width="650">
+</p>
 
 if + if 多選題示意圖
 
@@ -404,7 +408,7 @@ elif 代表「不然如果」。
 
 ---
 
-### 4. 老師帶著想一次
+### 4. 一起想一次
 
 ```python
 score = 75
@@ -1168,7 +1172,9 @@ len(password)
 
 最重要的口訣：
 
-![條件判斷口訣整理圖](images/Lesson_06_Conditionals/Lesson_6_Conditional_Expressions_條件判斷_36ccdfbaad3a80b5866cd64cf263cb94_img3.png)
+<p align="center">
+  <img src="images/Lesson_06_Conditionals/Lesson_06_Conditionals_img3.png" alt="條件判斷口訣整理圖" width="650">
+</p>
 
 條件判斷口訣整理圖
 
